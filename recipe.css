@@ -1,0 +1,36 @@
+body{
+	background-color:white;
+      color:black;
+font-family:"Book ActiveBorder",Times new Romans,cosmic;
+background-image:url("silverware.jpg");
+	width:900px;
+	height:800px;
+	font-style:center;
+}
+h3{
+	background-color:cyan;
+	color:orange;
+	font-size:18px;
+	font-style:bold;
+	font-style: underline;
+	float:center;
+}
+h1{
+	background-color:cyan;
+	color:orange;
+	font-size:18px;
+	font-style:bold;
+	font-style: underline;
+}
+
+	h2{
+		color:black;
+		font-size:16px;
+     }
+	 
+	 p{
+		 
+		 background-color:#FFFFE0;
+		 color:black;
+		 font-style:italic;
+	 }
