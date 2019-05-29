@@ -1,9 +1,12 @@
-body{Backgroung-color:#333333;
-      color:write;
-font-family:"Book ActiveBorder",Arial,cosmic;}
+body{ 
+background-color:#333333;
+      color:white;
+font-family:"Book ActiveBorder",Arial,cosmic;
+}
 
-h1{   color:conflowerBlue;}
-h2{   color:conflowerBlue;}
+h1{   color:cornflowerBlue;
+}
+
 
 a:visited{
 	color:#cc0000;
