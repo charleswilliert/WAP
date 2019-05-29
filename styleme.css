@@ -6,13 +6,31 @@ font-family:"Book ActiveBorder",Arial,cosmic;
 
 h1{   color:cornflowerBlue;
 }
-
-
-a:visited{
-	color:#cc0000;
+p::first-letter {
+  color: yellow;
+  font-size: xx-large;
 }
 
-a.stron{
+a:link {
+  color: red;
+  text-decoration: none;
+}
+
+a:visited{
+	color:blue;
+	 text-decoration: none;
+}
+a:hover {
+  color: hotpink;
+  text-decoration: underline;
+}
+
+a:active {
+  color: blue;
+   text-decoration: underline;
+}
+
+ .stron{
 	
-	color:#ffff00;
+	color:yellow;
 }
