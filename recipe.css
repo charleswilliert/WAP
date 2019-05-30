@@ -1,26 +1,28 @@
 body{
 	background-color:white;
       color:black;
+	 margin: 40px;
+	  font-size: 100%;
 font-family:"Book ActiveBorder",Times new Romans,cosmic;
 background-image:url("silverware.jpg");
 	width:900px;
 	height:800px;
-	font-style:center;
+	
 }
 h3{
 	background-color:cyan;
 	color:orange;
-	font-size:26px;
+	font-size:22pt;
 	font-style:bold;
-	font-style: underline;
+	text-decoration: underline;
 	float:center;
 }
 h1{
 	background-color:cyan;
 	color:orange;
-	font-size:18px;
+	font-size:18pt;
 	font-style:bold;
-	font-style: underline;
+	text-decoration: underline;
 }
 
 	h2{
@@ -38,3 +40,13 @@ h1{
 	 .ul{
 		 list-style-image:url("pie_icon.gif");
 	 }
+	 
+	 .ol{
+		 list-style-image:url("pie_icon.gif");
+	 }
+	 
+	 .left{
+		 
+		 float:right;
+	 }
+	

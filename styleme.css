@@ -34,3 +34,7 @@ a:active {
 	
 	color:yellow;
 }
+
+#YellowColor{ color: yellow; }
+.BlueColor{ color: blue !important; }
+.RedColor{ color: red; }
