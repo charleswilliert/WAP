@@ -22,7 +22,7 @@ body{
 }
 h1{ text-align: center;
      font-size:24pt;
-	 font-style:bold;
+	 font-weight:bold;
 	 font-family:"Tahoma", "Verdana", "sans-serif";
     text-shadow: 3px 3px #999999;
 	  
