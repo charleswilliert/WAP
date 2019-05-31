@@ -131,7 +131,7 @@ q {
 }
 
 #footer {
-    
+																	
     text-align: center;
     background-color: #A2B964;
 	height:30px;
@@ -145,6 +145,10 @@ q {
 }
 #end{
     float: right;
+}
+.imgReviewer{
+	clear: both;
+	float: left;
 }
 
 
