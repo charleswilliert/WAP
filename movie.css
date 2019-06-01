@@ -33,9 +33,6 @@ h1{ text-align: center;
     border: 4px solid gray;
     border-radius: 20px;
     margin: auto;
-	
-	
-
     overflow: hidden;
 }
 #ri{
@@ -145,6 +142,10 @@ q {
 }
 #end{
     float: right;
+	position:fixed;
+	bottom:0;
+	right:0;
+	opacity:0.5;
 }
 .imgReviewer{
 	clear: both;

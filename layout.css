@@ -1,0 +1,81 @@
+body{
+	margin-left:10%;
+	margin-right:10%;
+	background-image:url("background.gif");
+}
+
+.contain{
+	width:500px;
+	margin:auto;
+    border: 5px solid red;
+	overflow:hidden;
+	
+	
+}
+.inside{
+	
+	font-size: 8pt;
+    background-color:white;
+    border: 5px solid red;
+    overflow: auto;
+	text-align:left;
+}
+
+
+.insi{
+	
+	font-size: 8pt;
+    background-color:#E8FBFB;
+    border: 5px solid blue;
+    overflow: auto;
+	text-align:left;
+	padding:5px;
+	margin:10px;
+}
+	.in{
+	font-size: 8pt;
+    background-color:white;
+    border: 5px solid green;
+    overflow: auto;
+	text-align:left;
+	margin:2px;
+}
+.ins{
+	
+	font-size: 8pt;
+    background-color:white;
+    border: 5px solid darkblue;
+	float:left;
+    text-align:left;
+	margin:2px;
+	margin-top:0px;
+	padding-right:40px;
+	width:20px;
+
+	}
+.ivleft{
+	
+    border: none;
+ 	margin:2px;
+	margin-top:0px;
+	padding-right:40px;
+	width:20px;
+	float:left;
+
+	}
+.inf{
+	
+	font-size: 8pt;
+    background-color:#E8FBFB;
+    border: 5px solid blue;
+    overflow: auto;
+	text-align:left;
+}
+
+.end{
+    
+	padding:5px;
+	
+
+	
+}
