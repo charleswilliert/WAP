@@ -55,22 +55,25 @@ body{
 
 .end{
     
-	margin-left :40%;
+	margin-left :100px;
 	
 	
 }
 .colunm {
-    float: left;
+	display: inline-block;
+	vertical-align:top;
     width: 15%;
-	border: 4px solid gray;
+	border: 4px solid rgb(83, 174, 175);
 	border-radius:8px;
 	margin-top:10px;
+	padding:10px;
 	background-color:#A8F0F0;
 	
 }
 
 .colunm1 {
-    float: right;
+    display:inline-block;
     width: 80%;
+	margin-left:10px;
 	
 }
