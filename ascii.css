@@ -23,13 +23,13 @@ textarea{
     margin-left: auto;
     margin-right: auto;
   }
-  #buttons{
+  .buttons{
     display: flex;
     justify-content: flex-end;
 }
 #center {
     display: inline;
-    /*justify-content: center;*/
+    justify-content: center;
    
 }
 
