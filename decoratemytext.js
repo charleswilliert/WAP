@@ -8,7 +8,7 @@ function pageLoad() {
 
 function blingText() {
     if (document.getElementById("te").checked) {
-        document.body.style.backgroundImage = 'url("http://www.cs.washington.edu/education/courses/190m/CurrentQtr/labs/6/hundred-dollar-bill.jpg")';
+        document.body.style.backgroundImage = 'url("hundred-dollar-bill.jpg")';
         document.getElementById("text").className = "blingtext";
     } else {
         document.body.style.backgroundImage = " "
