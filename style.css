@@ -1,0 +1,169 @@
+#divImageFirst{
+    text-align: center;
+    
+}
+#logo{
+    width: 150px;
+    height: 55px;
+}
+#headerLeft{
+    float: left;
+}
+#headerRight{
+    float: right;
+}
+header{
+    width: 70%;
+    /* margin-left: 10%; */
+    margin: auto;
+    
+    overflow: auto;
+}
+section{
+    clear: both;
+    margin: auto;
+    border: 1px grey solid;
+     
+    width: 70%;
+    overflow: auto;
+    padding: 15px;
+
+}
+#framePart{
+    width: 100%;
+    
+     
+}
+
+#divFrame{
+   
+}
+.centerComp{
+    text-align: center;
+    
+}
+#imgCarte{
+width: 300px;
+height: 180px;
+float: right;
+}
+#firstform{    
+    float: left;   
+}
+#bottom{
+    clear: both;
+}
+footer{
+    overflow: auto;
+    margin-top: 20px;
+    background-image: url("Images/background.PNG")
+   
+}
+#ImageFinal{
+    width: 90px;
+    height: 43px;
+}
+#logoNorton{
+    width: 60px;
+    height: 30px;
+    float: right;
+}
+#finaleDiv{
+    width: 70%;
+    margin: auto;
+}
+table {
+    border-collapse: collapse;
+    /* border: 1.5px solid black; */
+  } 
+  td,tr{
+      border: 1px solid #bbb;
+  }
+  table.b {
+  /* table-layout: auto;
+  width: 100%;   */
+}
+
+td:nth-child(1) {
+    background: #ccc;
+    width: 200px;
+    font-weight: bold;
+  }
+#td_annual{
+ vertical-align: top;
+  }
+  #headerLeft h1{
+   color : #003d99;
+  }
+  #firstListinHead{
+      list-style: none;
+  }
+  .centerHeader{
+      text-align: center;
+      color: #0052cc;
+  }
+ 
+  
+  input[type=text], select,input[type=date],input[type=email] {
+     
+    padding: 12px 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 25px;
+    /* margin: 8px 0; */
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  input[type=button] {
+    width: 75%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    /* margin: 8px 0; */
+    margin-left: 13%;;
+     
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  hr{
+      color:  #cce6ff;
+  }
+  #idFirstName{
+      margin-right: 150px;
+  }
+  #idDateOfBirth{
+    margin-right: 135px; 
+  }
+  #idSocialSecurity{
+    margin-right: 123px; 
+  }
+  #idTexbox1{
+      width: 35%;
+  }
+  #idHomeAddress{
+    margin-right: 150px;
+  }
+  #idMail{
+    margin-right: 260px;  
+  }
+  #idAnnualIncom{
+    margin-right: 120px;
+    margin-top: 20px;  
+  }
+  #idmortgage{
+    margin-right: 120px;  
+  }
+  #idBank{
+    margin-right: 140px;  
+  }
+  #idMonthly{
+      margin-left: 255px;
+  }
+  select{
+      width: 35%;
+  }
+  
